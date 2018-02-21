@@ -1,0 +1,17 @@
+{
+  "name": "MagicMirror-QuoteCatalog",
+  "version": "1.0.0",
+  "description": "Quote Catalog for MagicMirror²",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salpar/MagicMirror-QuoteCatalog.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror²",
+    "Quotes",
+  ],
+  "author": "salpar",
+  "license": "MIT",
+  "homepage": "https://github.com/salpar/MagicMirror-QuoteCatalog.git#readme"
+}
