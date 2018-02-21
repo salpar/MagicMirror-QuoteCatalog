@@ -28,7 +28,7 @@ Add the module to the modules array in the `config/config.js` file by adding the
 ```
 {
     module: 'MagicMirror-QuoteCatalog',
-    header: 'Quote',
+    header: 'The Quote Catalog',
     position: 'top_left',
     config: {
                 // See below for configurable options
@@ -38,12 +38,31 @@ Add the module to the modules array in the `config/config.js` file by adding the
 
 
 ## Configuration options
-
-| Option           | Description
-|----------------- |-----------
-
-| `timeFormat`     | *Optional* How often a new quote gets displayed. The value is in seconds. <br><br> **Type:** `int` <br> **Default value:** `'300' seconds` (5 minutes)
-| `fadeSpeed`      | *Optional* How fast to fade out and back in when changing quotes. The value is in seconds. <br><br> **Type:** `int` <br> **Default value:** `5`
+<table width="100%">
+<!-- why, markdown... -->
+    <thead>
+        <tr>
+            <th>Option</th>
+            <th width="100%">Description</th>
+        </tr>
+    <thead>
+    <tbody>
+        <tr>
+            <td><code>timeFormat</code></td>
+            <td>How often a new quote gets displayed. The value is in seconds.<br>
+                <br><b>Possible values:</b> <code>int</code> in <code>seconds</code>
+                <br><b>Default value:</b> <code>300</code>
+            </td>
+        </tr>
+        <tr>
+            <td><code>fadeSpeed</code></td>
+            <td>How fast to fade out and back in when changing quotes. The value is in seconds.<br>
+                <br><b>Possible values:</b> <code>int</code> in <code>seconds</code>
+                <br><b>Default value:</b> <code>5</code>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Updating Quotes
