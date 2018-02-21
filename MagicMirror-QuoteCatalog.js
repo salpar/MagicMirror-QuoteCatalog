@@ -156,10 +156,9 @@ Module.register("MagicMirror-QuoteCatalog",{
         var wrapper = document.createElement("div");
 
         var quote = document.createElement("div");
-        quote.className = "bright medium light";
-        quote.style.textAlign = 'center';
+        quote.className = "bright small light";
+        quote.style.textAlign = 'justify';
         quote.style.margin = '0 auto';
-        quote.style.maxWidth = '50%';
         quote.innerHTML = qMsg;
 
         wrapper.appendChild(quote);
