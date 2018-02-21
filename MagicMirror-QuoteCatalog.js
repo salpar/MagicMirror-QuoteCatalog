@@ -159,6 +159,7 @@ Module.register("MagicMirror-QuoteCatalog",{
         quote.className = "bright small light";
         quote.style.textAlign = 'justify';
         quote.style.margin = '0 auto';
+        quote.style.maxWidth = '400px';
         quote.innerHTML = qMsg;
 
         wrapper.appendChild(quote);
