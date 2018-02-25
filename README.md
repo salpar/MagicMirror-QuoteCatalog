@@ -1,6 +1,8 @@
 # MagicMirror² Module: Quote Catalog
 The `MagicMirror-QuoteCatalog` is a module for [MagicMirror²](https://magicmirror.builders/) that displays quotes taken from a variety of sources - movies, books, and people.
 
+![Example](.github/example.png)
+
 
 ## Installation
 
