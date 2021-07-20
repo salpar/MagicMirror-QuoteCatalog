@@ -13,7 +13,7 @@ Module.register("MagicMirror-QuoteCatalog",{
 
     // Module config defaults.
     defaults: {
-        updateInterval: 300,    // How often a new quote gets displayed.
+        updateInterval: 2,     // How often a new quote gets displayed. 300 second default (int seconds)
         fadeSpeed: 5,           // How fast to fade out and back in when changing quotes.
         quotes: {
             quotes : [
