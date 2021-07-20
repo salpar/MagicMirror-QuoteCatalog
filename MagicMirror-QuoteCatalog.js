@@ -18,106 +18,106 @@ Module.register("MagicMirror-QuoteCatalog",{
         quotes: {
             quotes : [
                 "Keep Moving Forward. ~ Walt Disney", //1
-                "Tell me, What is it your plan to do with your one, only one wild and precious life. ~ Mary Oliver" //2
+                "Tell me, What is it your plan to do with your one, only one wild and precious life. ~ Mary Oliver", //2
                 "Carpe Diem, Seize the day boys, Make your lives extraordinary. ~ Robin Williams", //3
-                "Little things aren't so little, my friend. ~ Robin" //4
-                "The job that you will have, may not have been invented yet. ~ Veritasium" //5
-                "Stop living by default, start designing your life. ~ Trav Bell" //6
-                "Don't climb the mountain so that people can see you. Climb the mountain so that you can see the world. ~ David McCullough Jr.(By Ridham)" //7
-                "Be deliriously happy. ~ Joe Black" //8
-                "Depth of the life is more important than the length of the life." // 9
-                "All of us do not have an equal talent. Yet all of us have an equal opportunity to develop our talent.~ John F Cannedy" //10
-                "Education is the movement from darkness to light. ~ Allan bloom" //11
-                "Teenagers, there is more to life than scoring over 90% ~ Uddabh Bareli" //12
-                "If most of us are ashamed of shabby clothes and shoddy furniture, letus be more ashamed of shabby ideas and shoddy philosophies. ~ Albert Einstein" //13
-                "Today is difficult, tomorrow is much more difficult, the day after tomorrow is very beautiful, but most die tomorrow evening. ~ Jake ma" //14
-                "And, when you want something, all the universe conspires in helping you to achieve it. ~ Paulo Coelho, The Alchemist" //15
-                "The best partnership are built on forgiveness." //16
-                "Before you eat, thank the people who prepared the meal, thank the ingredients, and thank the people you're about to enjoy the meal with." //17
-                "The happiness of life is made up of the little charities of a kiss or smile, a kind look, a heartfelt compliment. ~ Samuel Taylor Coleridge" //18
-                "Knowledge is riches. You can't be poor as long as you have knowledge." //19
-                "The best revenge is not to be like that. ~ Marcus Aurelius" //20
-                "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." //21
-                "THERE IS A RELIGION ABOVE ALL RELIGION THAT IS HUMANITY." //22
-                "When I grow up i want to be me." //23
-                "The next time you see someone new, remember: This person wishes to be happy, safe, healthy, and loved, just like me" //24
-                "With mirth and laughter let old wrinkles come. ~ William Shakespeare" //25
-                "Don’t judge each day by the harvest you reap but by the seeds that you plant ~ Robert Louis Stevenson" //26
-                "I am very happy because I have conquered myself and not the world. I am very happy because I have loved the world and not myself. ~ Sri Chinmoy" //27
-                "Earth provide enough to satisfy every man's needs, but not every man's greed. ~ MKG" //28
-                "whenever life turns down, just remember the sentence - This Too Shall Pass" //29
-                "Sui generis is a Latin phrase that means 'of its own kind'; in a class by itself; unique." // 30 
-                "A number of disciplines use the term to refer to unique entities." //31
-                "Beauty lies in the eyes." //32
-                "I wil always remember that, Let not my winged days, be spent in vain" //33
-                "And miles to go before sleep" //34
-                "Time tests everything and everyone." //35
-                "The difference between animals and humans is they don't have a teacher apart from nature. ~ Sagar" //36
-                "Love is not something that you do, it is the way you are. ~ Sadguru" //37
-                "Be less curious about people and more curious about ideas. ~ Marie Curie" //38
-                "Have no fear of perfection; you’ll never reach it. Nothing in life is to be feared; it is only to be understood. ~ Marie Curie" //39
-                "Life is a verb, it is not a noun.." //40
-                "The simplicity is elegant." //41
-                "Life is hard , but u have to be harder. Never give up." //42
-                "Seize the day, put very little trust in tomorrow (the future)." //43
-                "Please, don't worry so much. Because in the end, none of us have very long on this Earth. Life is fleeting. And if you're ever distressed, cast your eyes to the summer sky when the stars are strung across the velvety night. And when a shooting star streaks through the blackness, turning night into day... make a wish and think of me. Make your life spectacular. I know I did. ~ Robin Williams" //44 
-                "Words are for meaning: when you've got the meaning, you can forget the words. ~ Zhuangzi" //45 
-                "You will soon meet your maker, sooner or later😉. ~ Sagar" //46
-                "Life is itself has no meaning, Life is an opportunity to create meaning." //47
-                "Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth” ~ Jules Verne" //48
-                "Art is I; science is we ~ Claude Bernard" //49
-                "One never notices what has been done; one can only see what remains to be done ~ Marie Curie" //50 
-                "Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius ~ William Blake" //51
-                "Only knowledge that is used sticks in your mind ~ Dale Carnegie" //52
-                "I don't think there's anything like saving someone's life to bring you satisfaction and happiness ~ Stephanie Kwolek" //53
-                "Dignity on Death" //54
-                "Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each. ~ Plato" //55 
-                "Life's most persistent and urgent question is, What are you doing for others? ~ Martin Luther King Jr" //56 
-                "Meaning can easily be confused with structure. Structure is a good approximation, but not the same ~ Claudia Perlich" //57 
-                "They say that when a man is born - the sky is falling soul and breaks into two parts. One part goes to the women and one for men. The meaning of life is to find the other half. Catches of his own soul." //58
-                "Our ingress into the world was naked and bare; our progress through the world is trouble and care; our egress from the world will be nobody knows where; but if we do well here we shall do well there. ~ Henry Wadsworth Longfellow" //59
-                "LIVING LIFE WITH TOTAL ABANDON." //60
-                "Most people are other people. Their thoughts are someone else’s opinions, their lives a mimicry, their passions a quotation." //61
-                "If you understand others you are smart. If you understand yourself you are illuminated. If you overcome others you are powerful. If you overcome yourself you have strength. If you know how to be satisfied you are rich. If you can act with vigor, you have a will. If you don't lose your objectives you can be long-lasting. If you die without loss, you are eternal. ~ Lao Tzu, Tao Te Ching" //62
-                "A wise, well educated and worthy son alone is enough to bring glory to the family like the lonely moon is enough to benighted the night with charms! ~ Chanakya" //63
-                "Children are similar to clay. The form they ultimately assume, will depend on how they were moulded in their youth. ~ Chanakya" //64
-                "No man can escape the consequences of his actions. One's actions will chase one like a persistent shadow. Chanakya" //65
-                "One who is search of knowledge should give up the search of pleasure and the one who is in search of pleasure should give up the search of knowledge. ~ Chanakya" //66
-                "There is no present or future of the lazy. ~ Chanakya" //67
-                "Do not hesitate in getting nectar even from poison if it be available and gold even from the filth. Accept good knowledge even from a pariah and good girl even from a low family. ~ Chanakya" //68
-                "I say never be complete, I say stop being perfect, I say let's evolve, let the chips fall where they may. ~ Tyler Durden, Fight Club" //69
-                "If you don’t design your own life plan, chances are you’ll fall into someone else’s plan.And guess what they have planned for you? Not much. ~ Jim Rohn" //70
-                "Let others lead small lives, but not you. Let others argue over small things, but not you. Let others cry over small hurts, but not you. Let others leave their future in someone else's hands, but not you. ~ Jim Rohn" //71
-                "uccess is not to be pursued; it is to be attracted by the person you become. ~ im Rohn" //72
-                "Be not just a being, instand, Be a wonderful human being" //73
-                "Whatever is your Area Of engagement, You involve yourself in that, If you do your best with what's happening today, Tomorrow will be better. ~ Sadguru" //74
-                "With the details of today, will determine the quality of Tomorrow. ~ Sadguru" //75
-                "Excellence only comes when you do something that truly resonates with your soul. ~ Gaur Gopal Das" //76
-                "Give a man a mask, and he’ll show you his true face. ~ Oscar Wilde" //77
-                "The Engineer has been, and is a maker of the history. ~ james kipfinre" //78
-                "Nonsense and beauty have close connections. ~ E.M. Forster" //79
-                "It is a miracle that curiosity survives formal education. ~ Albert Einstein" //80
-                "You are never alone and helpless. The force that guides the stars guides you, too. ~ Shree Anandamurty" //81
-                "And somewhere there are engineers Helping others fly faster than sound. But, where are the engineers Helping those who must live on the ground? ~ Young Oxfam Poster" //82
-                "A Million Books for a Billion People" //83
-                "Work, but let not the action or the thought produce a deep impression on the mind. Let the ripples come and go, let huge actions proceed from the muscles and the brain, but let them not make any deep impression on the soul." //84               -Class on Karma Yoga. New York, December 20, 1895. Complete Works, 1. 56.﻿
-                "But those who always worship Me with exclusive devotion, meditating on My transcendental form – to them I carry what they lack, and I preserve what they have. ~ BG 9.22" //85
-                "On books and friends I spend my money; For stones and bricks I haven't any. ~ Ruskin Bond, Rain In The Mountains" //86
-                "Before you say something just remember..it takes a moment to Break but an entire lifetime to make..." //87
-                "Kidnapping Dr. Pavel. It doesn't matter who we are, What matters is our plan... No one cared who I was 'til I put on the mask...  ~ Bane" //88
-                "शिक्षक कभी साधारण नहीं होता, प्रलय और निर्माण उसकी गोद में पलते हैं। ~ आचार्य चाणक्य" //89
-                "मैं इस देश में पैदा हुआ हूँ और इस देश के कण कण पर मेरा भी अधिकार है .. इससे मुझे कोई वंचित नहीं कर सकता !! अखंड भारत मेरा लक्ष्य है!! ~ आचार्य चाणक्य" // 90 
-                "एक राष्ट्र जीवन मे व्यक्ति मां के साथ-साथ संस्कृति के गर्भ से भी जन्म लेता है।" // 91
-                "हिमालयं समारभ्य यावत् इंदु सरेावरम् | तं देवनिर्मितं देशं हिंदुस्थानं प्रचक्षते ||" //92
-                "દરેક દિવસે જીત તો નથી થતી....પણ દરેક દિવસે કરેલી મહેનત જીત તરફ જરૂર લઈ જાય છે.." //93
-                "पराजित राज्य तब तक पराजित नहीं होता है, जब तक वो अपने मूल्यों की रक्षा कर पाता है!" //94
-                "Character is manufacturered by karma. ~ Karma yoga" //95
-                "Do not be a person who knows a thousands of quotes, and doesn't follows any of one, be a person, who knows a handful of one, but apply those tremendously in his own life. ~ Sagar" //96
-                "क्रोध के बोझ को मनं पे उठाये काहे चलता है प्राणी, क्षमा जो शत्रु को भी कर दे, वही मुक्त है, वही ज्ञानी." //97
-                "The secret of success is to do the common things uncommonly well. ~ John D. Rockefeller" //98
-                "It's hard to do a really good job on anything you don't think about in the shower.  ~ Paul Graham" //99                                                                                                .
-                "How you make others feel about themselves says a lot about you. ~ Unknown" //100
-                "101 quotes" //101 pending
+                "Little things aren't so little, my friend. ~ Robin", //4
+                "The job that you will have, may not have been invented yet. ~ Veritasium", //5
+                "Stop living by default, start designing your life. ~ Trav Bell", //6
+                "Don't climb the mountain so that people can see you. Climb the mountain so that you can see the world. ~ David McCullough Jr.(By Ridham)", //7
+                "Be deliriously happy. ~ Joe Black", //8
+                "Depth of the life is more important than the length of the life.", // 9
+                "All of us do not have an equal talent. Yet all of us have an equal opportunity to develop our talent.~ John F Cannedy", //10
+                "Education is the movement from darkness to light. ~ Allan bloom", //11
+                "Teenagers, there is more to life than scoring over 90% ~ Uddabh Bareli", //12
+                "If most of us are ashamed of shabby clothes and shoddy furniture, letus be more ashamed of shabby ideas and shoddy philosophies. ~ Albert Einstein", //13
+                "Today is difficult, tomorrow is much more difficult, the day after tomorrow is very beautiful, but most die tomorrow evening. ~ Jake ma", //14
+                "And, when you want something, all the universe conspires in helping you to achieve it. ~ Paulo Coelho, The Alchemist", //15
+                "The best partnership are built on forgiveness.", //16
+                "Before you eat, thank the people who prepared the meal, thank the ingredients, and thank the people you're about to enjoy the meal with.", //17
+                "The happiness of life is made up of the little charities of a kiss or smile, a kind look, a heartfelt compliment. ~ Samuel Taylor Coleridge", //18
+                "Knowledge is riches. You can't be poor as long as you have knowledge.", //19
+                "The best revenge is not to be like that. ~ Marcus Aurelius", //20
+                "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.", //21
+                "THERE IS A RELIGION ABOVE ALL RELIGION THAT IS HUMANITY.", //22
+                "When I grow up i want to be me.", //23
+                "The next time you see someone new, remember: This person wishes to be happy, safe, healthy, and loved, just like me", //24
+                "With mirth and laughter let old wrinkles come. ~ William Shakespeare", //25
+                "Don’t judge each day by the harvest you reap but by the seeds that you plant ~ Robert Louis Stevenson", //26
+                "I am very happy because I have conquered myself and not the world. I am very happy because I have loved the world and not myself. ~ Sri Chinmoy", //27
+                "Earth provide enough to satisfy every man's needs, but not every man's greed. ~ MKG", //28
+                "whenever life turns down, just remember the sentence - This Too Shall Pass", //29
+                "Sui generis is a Latin phrase that means 'of its own kind'; in a class by itself; unique.", // 30 
+                "A number of disciplines use the term to refer to unique entities.", //31
+                "Beauty lies in the eyes.", //32
+                "I wil always remember that, Let not my winged days, be spent in vain", //33
+                "And miles to go before sleep", //34
+                "Time tests everything and everyone.", //35
+                "The difference between animals and humans is they don't have a teacher apart from nature. ~ Sagar", //36
+                "Love is not something that you do, it is the way you are. ~ Sadguru", //37
+                "Be less curious about people and more curious about ideas. ~ Marie Curie", //38
+                "Have no fear of perfection; you’ll never reach it. Nothing in life is to be feared; it is only to be understood. ~ Marie Curie", //39
+                "Life is a verb, it is not a noun..", //40
+                "The simplicity is elegant.", //41
+                "Life is hard , but u have to be harder. Never give up.", //42
+                "Seize the day, put very little trust in tomorrow (the future).", //43
+                "Please, don't worry so much. Because in the end, none of us have very long on this Earth. Life is fleeting. And if you're ever distressed, cast your eyes to the summer sky when the stars are strung across the velvety night. And when a shooting star streaks through the blackness, turning night into day... make a wish and think of me. Make your life spectacular. I know I did. ~ Robin Williams", //44 
+                "Words are for meaning: when you've got the meaning, you can forget the words. ~ Zhuangzi", //45 
+                "You will soon meet your maker, sooner or later😉. ~ Sagar", //46
+                "Life is itself has no meaning, Life is an opportunity to create meaning.", //47
+                "Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth” ~ Jules Verne", //48
+                "Art is I; science is we ~ Claude Bernard", //49
+                "One never notices what has been done; one can only see what remains to be done ~ Marie Curie", //50 
+                "Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius ~ William Blake", //51
+                "Only knowledge that is used sticks in your mind ~ Dale Carnegie", //52
+                "I don't think there's anything like saving someone's life to bring you satisfaction and happiness ~ Stephanie Kwolek", //53
+                "Dignity on Death", //54
+                "Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each. ~ Plato", //55 
+                "Life's most persistent and urgent question is, What are you doing for others? ~ Martin Luther King Jr", //56 
+                "Meaning can easily be confused with structure. Structure is a good approximation, but not the same ~ Claudia Perlich", //57 
+                "They say that when a man is born - the sky is falling soul and breaks into two parts. One part goes to the women and one for men. The meaning of life is to find the other half. Catches of his own soul.", //58
+                "Our ingress into the world was naked and bare; our progress through the world is trouble and care; our egress from the world will be nobody knows where; but if we do well here we shall do well there. ~ Henry Wadsworth Longfellow", //59
+                "LIVING LIFE WITH TOTAL ABANDON.", //60
+                "Most people are other people. Their thoughts are someone else’s opinions, their lives a mimicry, their passions a quotation.", //61
+                "If you understand others you are smart. If you understand yourself you are illuminated. If you overcome others you are powerful. If you overcome yourself you have strength. If you know how to be satisfied you are rich. If you can act with vigor, you have a will. If you don't lose your objectives you can be long-lasting. If you die without loss, you are eternal. ~ Lao Tzu, Tao Te Ching", //62
+                "A wise, well educated and worthy son alone is enough to bring glory to the family like the lonely moon is enough to benighted the night with charms! ~ Chanakya", //63
+                "Children are similar to clay. The form they ultimately assume, will depend on how they were moulded in their youth. ~ Chanakya", //64
+                "No man can escape the consequences of his actions. One's actions will chase one like a persistent shadow. Chanakya", //65
+                "One who is search of knowledge should give up the search of pleasure and the one who is in search of pleasure should give up the search of knowledge. ~ Chanakya", //66
+                "There is no present or future of the lazy. ~ Chanakya", //67
+                "Do not hesitate in getting nectar even from poison if it be available and gold even from the filth. Accept good knowledge even from a pariah and good girl even from a low family. ~ Chanakya", //68
+                "I say never be complete, I say stop being perfect, I say let's evolve, let the chips fall where they may. ~ Tyler Durden, Fight Club", //69
+                "If you don’t design your own life plan, chances are you’ll fall into someone else’s plan.And guess what they have planned for you? Not much. ~ Jim Rohn", //70
+                "Let others lead small lives, but not you. Let others argue over small things, but not you. Let others cry over small hurts, but not you. Let others leave their future in someone else's hands, but not you. ~ Jim Rohn", //71
+                "uccess is not to be pursued; it is to be attracted by the person you become. ~ im Rohn", //72
+                "Be not just a being, instand, Be a wonderful human being", //73
+                "Whatever is your Area Of engagement, You involve yourself in that, If you do your best with what's happening today, Tomorrow will be better. ~ Sadguru", //74
+                "With the details of today, will determine the quality of Tomorrow. ~ Sadguru", //75
+                "Excellence only comes when you do something that truly resonates with your soul. ~ Gaur Gopal Das", //76
+                "Give a man a mask, and he’ll show you his true face. ~ Oscar Wilde", //77
+                "The Engineer has been, and is a maker of the history. ~ james kipfinre", //78
+                "Nonsense and beauty have close connections. ~ E.M. Forster", //79
+                "It is a miracle that curiosity survives formal education. ~ Albert Einstein", //80
+                "You are never alone and helpless. The force that guides the stars guides you, too. ~ Shree Anandamurty", //81
+                "And somewhere there are engineers Helping others fly faster than sound. But, where are the engineers Helping those who must live on the ground? ~ Young Oxfam Poster", //82
+                "A Million Books for a Billion People", //83
+                "Work, but let not the action or the thought produce a deep impression on the mind. Let the ripples come and go, let huge actions proceed from the muscles and the brain, but let them not make any deep impression on the soul.", //84 -Class on Karma Yoga. New York, December 20, 1895. Complete Works, 1. 56.﻿
+                "But those who always worship Me with exclusive devotion, meditating on My transcendental form – to them I carry what they lack, and I preserve what they have. ~ BG 9.22", //85
+                "On books and friends I spend my money; For stones and bricks I haven't any. ~ Ruskin Bond, Rain In The Mountains", //86
+                "Before you say something just remember..it takes a moment to Break but an entire lifetime to make...", //87
+                "Kidnapping Dr. Pavel. It doesn't matter who we are, What matters is our plan... No one cared who I was 'til I put on the mask...  ~ Bane", //88
+                "शिक्षक कभी साधारण नहीं होता, प्रलय और निर्माण उसकी गोद में पलते हैं। ~ आचार्य चाणक्य", //89
+                "मैं इस देश में पैदा हुआ हूँ और इस देश के कण कण पर मेरा भी अधिकार है .. इससे मुझे कोई वंचित नहीं कर सकता !! अखंड भारत मेरा लक्ष्य है!! ~ आचार्य चाणक्य", // 90 
+                "एक राष्ट्र जीवन मे व्यक्ति मां के साथ-साथ संस्कृति के गर्भ से भी जन्म लेता है।", // 91
+                "हिमालयं समारभ्य यावत् इंदु सरेावरम् | तं देवनिर्मितं देशं हिंदुस्थानं प्रचक्षते ||", //92
+                "દરેક દિવસે જીત તો નથી થતી....પણ દરેક દિવસે કરેલી મહેનત જીત તરફ જરૂર લઈ જાય છે..", //93
+                "पराजित राज्य तब तक पराजित नहीं होता है, जब तक वो अपने मूल्यों की रक्षा कर पाता है!", //94
+                "Character is manufacturered by karma. ~ Karma yoga", //95
+                "Do not be a person who knows a thousands of quotes, and doesn't follows any of one, be a person, who knows a handful of one, but apply those tremendously in his own life. ~ Sagar", //96
+                "क्रोध के बोझ को मनं पे उठाये काहे चलता है प्राणी, क्षमा जो शत्रु को भी कर दे, वही मुक्त है, वही ज्ञानी.", //97
+                "The secret of success is to do the common things uncommonly well. ~ John D. Rockefeller", //98
+                "It's hard to do a really good job on anything you don't think about in the shower.  ~ Paul Graham", //99                                                                                                .
+                "How you make others feel about themselves says a lot about you. ~ Unknown", //100
+                "101 quotes", //101 pending
                 "Please don't expect me to always be good and kind and loving. There are times when I will be cold and thoughtless and hard to understand. ~ Sylvia Plath",
                 "If you inherently long for something, become it first. If you want gardens, become the gardener. If you want love, embody love. If you want mental stimulation, change the conversation. If you want peace, exude calmness. If you want to fill your world with artists, begin to paint. If you want to be valued, respect your own time. If you want to live ecstatically, find the ecstasy within yourself. This is how to draw it in, day by day, inch by inch. ~ Victoria Erickson",
                 "It's a lot easier to be angry at someone than it is to tell them you're hurt. ~ Tom Gates",
