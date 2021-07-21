@@ -112,7 +112,7 @@ Module.register("MagicMirror-QuoteCatalog",{
                 "દરેક દિવસે જીત તો નથી થતી....પણ દરેક દિવસે કરેલી મહેનત જીત તરફ જરૂર લઈ જાય છે..", //93
                 "पराजित राज्य तब तक पराजित नहीं होता है, जब तक वो अपने मूल्यों की रक्षा कर पाता है!", //94
                 "Character is manufactured by karma. ~ Karma yoga", //95
-                "Do not be a person who knows a thousands of quotes, and doesn't follows any of one, be a person, who knows a handful of one, but apply those tremendously in his own life. ~ Sagar", //96
+                "Do not be a person who knows thousands of quotes, and doesn't follow any of one, be a person, who knows a handful of one, but apply those tremendously in his own life. ~ Sagar", //96
                 "क्रोध के बोझ को मनं पे उठाये काहे चलता है प्राणी, क्षमा जो शत्रु को भी कर दे, वही मुक्त है, वही ज्ञानी.", //97
                 "The secret of success is to do the common things uncommonly well. ~ John D. Rockefeller", //98
                 "It's hard to do a really good job on anything you don't think about in the shower.  ~ Paul Graham", //99                                                                                                .
