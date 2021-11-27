@@ -117,7 +117,7 @@ Module.register("MagicMirror-QuoteCatalog",{
                 "The secret of success is to do the common things uncommonly well. ~ John D. Rockefeller", //98
                 "It's hard to do a really good job on anything you don't think about in the shower.  ~ Paul Graham", //99                                                                                                .
                 "How you make others feel about themselves says a lot about you. ~ Unknown", //100
-                "101 quotes", //101 pending
+                "101 quotes", //101 pending (done)
                 "Please don't expect me to always be good and kind and loving. There are times when I will be cold and thoughtless and hard to understand. ~ Sylvia Plath",
                 "If you inherently long for something, become it first. If you want gardens, become the gardener. If you want love, embody love. If you want mental stimulation, change the conversation. If you want peace, exude calmness. If you want to fill your world with artists, begin to paint. If you want to be valued, respect your own time. If you want to live ecstatically, find the ecstasy within yourself. This is how to draw it in, day by day, inch by inch. ~ Victoria Erickson",
                 "It's a lot easier to be angry at someone than it is to tell them you're hurt. ~ Tom Gates",
